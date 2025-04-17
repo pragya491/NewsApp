@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/NewsBee/static/css/main.dc4d6ff2.css",
-    "main.js": "/NewsBee/static/js/main.819d6edc.js",
-    "static/js/453.b2157c12.chunk.js": "/NewsBee/static/js/453.b2157c12.chunk.js",
-    "index.html": "/NewsBee/index.html",
-    "main.dc4d6ff2.css.map": "/NewsBee/static/css/main.dc4d6ff2.css.map",
-    "main.819d6edc.js.map": "/NewsBee/static/js/main.819d6edc.js.map",
-    "453.b2157c12.chunk.js.map": "/NewsBee/static/js/453.b2157c12.chunk.js.map"
+    "main.css": "/my-app/static/css/main.dc4d6ff2.css",
+    "main.js": "/my-app/static/js/main.e7a8f9a7.js",
+    "static/js/453.b2157c12.chunk.js": "/my-app/static/js/453.b2157c12.chunk.js",
+    "index.html": "/my-app/index.html",
+    "main.dc4d6ff2.css.map": "/my-app/static/css/main.dc4d6ff2.css.map",
+    "main.e7a8f9a7.js.map": "/my-app/static/js/main.e7a8f9a7.js.map",
+    "453.b2157c12.chunk.js.map": "/my-app/static/js/453.b2157c12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc4d6ff2.css",
-    "static/js/main.819d6edc.js"
+    "static/js/main.e7a8f9a7.js"
   ]
 }
